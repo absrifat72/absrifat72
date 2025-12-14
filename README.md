@@ -8,8 +8,8 @@ I am diving deep into the language to master DOM manipulation, asynchronous prog
 I utilize a modern stack to build my projects:
 * **Core:** HTML5, CSS3, JavaScript
 * **Version Control:** Git & GitHub
-* **Editor:** VS Code
-* **Design Tools:** Figma
+* **Editor:** VS Code, Brackets
+* **Design Tools:** Figma, Photoshop
 
 I am always open to discussing new projects or opportunities!
 <!--* **LinkedIn:** --> 
